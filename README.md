@@ -8,5 +8,8 @@ Since I can't figure out what is important in this huge lobby network, I'd like 
 sudden (dis)appearance of large dense directed graph
 
 ## Lits
+### 2019
+Graph Level Anomaly Detection http://web.stanford.edu/class/cs224w/project/26424135.pdf
+
+### 2018
 SPOTLIGHT https://www.cs.cmu.edu/~deswaran/papers/kdd18-spotlight.pdf
-http://web.stanford.edu/class/cs224w/project/26424135.pdf
