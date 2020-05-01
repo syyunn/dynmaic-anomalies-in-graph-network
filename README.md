@@ -21,3 +21,5 @@ SPOTLIGHT https://www.cs.cmu.edu/~deswaran/papers/kdd18-spotlight.pdf
 Inductive representation learning on large graphs 
 
 ### This topic is related to the graph representation learning
+## graph level likelihood prediction
+Graphrnn: Generating realistic graphs with deep auto-regressive models,
