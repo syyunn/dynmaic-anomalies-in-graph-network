@@ -24,4 +24,9 @@ Inductive representation learning on large graphs
 Ideally, we should be able to use these graph level embeddings for anomaly detection by comparing different embeddings against each other. Unsupervised inductive whole-graph embedding by preserving graph proximity
 
 #### Graph level likelihood prediction
-Graphrnn: Generating realistic graphs with deep auto-regressive models,
+For a given graph \G, we can estimate the likelihood of that graph, \P(G), with GraphRNNs and GRANs. 
+
+(Both are efficient graph generation with graph recurrent attention networks)
+
+- Graphrnn: Generating realistic graphs with deep auto-regressive models
+- GRAN: Efficient graph generation with graph recurrent attention networks
