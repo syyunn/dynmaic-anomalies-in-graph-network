@@ -20,6 +20,8 @@ SPOTLIGHT https://www.cs.cmu.edu/~deswaran/papers/kdd18-spotlight.pdf
 ### 2017
 Inductive representation learning on large graphs 
 
-### This topic is related to the graph representation learning
-## graph level likelihood prediction
+### This topic is related to the graph representation learning, i.e., whole graph embedding
+Ideally, we should be able to use these graph level embeddings for anomaly detection by comparing different embeddings against each other. Unsupervised inductive whole-graph embedding by preserving graph proximity
+
+#### Graph level likelihood prediction
 Graphrnn: Generating realistic graphs with deep auto-regressive models,
